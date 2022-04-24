@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @jehad-halahla
 - 👀 I’m interested in Programming/high-level languages
-- 🌱 I’m currently learning java/ re-learning kotlin
+- 🌱 I currently can code in:
+- java/ re-learning kotlin
+- C language
 
-- 📫 How to reach me ...>> jehadkhaledh2002@gmail.com
+- 📫 How to reach me (private e-mail)...>> jehadkhaledh2002@gmail.com
 
 <!---
 jehad-halahla/jehad-halahla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
