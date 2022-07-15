@@ -3,6 +3,9 @@
 - 🌱 I currently can code in:
 - java/ re-learning kotlin
 - C language
+- ARM assembly
+- C++
+- Python
 
 - 📫 How to reach me (private e-mail)...>> jehadkhaledh2002@gmail.com
 
