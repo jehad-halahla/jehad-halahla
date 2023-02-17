@@ -6,6 +6,7 @@
 - ARM assembly
 - C++
 - Python
+-verilog HDL
 
 - 📫 How to reach me (private e-mail)...>> jehadkhaledh2002@gmail.com
 
