@@ -1,8 +1,5 @@
 <body>
-  <h1 align=center color = "red">Jehad Halahla</h1>
-<p align=center>
-  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E2E&background=E9FF3000&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" /></a>
-  </p>
+  <h1 align=center>Jehad Halahla</h1>
 
 
 - 📫 How to reach me (private e-mail)...>> jehadkhaledh2002@gmail.com
