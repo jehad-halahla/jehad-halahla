@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <div style="display:inline-block;">
-    <img src="https://i.pinimg.com/564x/47/f9/60/47f96020e4fa0aff6f92f6d1ec10096e.jpg" alt="Guts" width="900" height="400" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cool" width="1000" height="500" />
     <h2>Overview & Statistics 📈</h2>
       <img alt="jehad-halahla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jehad-halahla&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
        <a href="https://github.com/anuraghazra/github-readme-stats">
